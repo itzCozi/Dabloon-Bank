@@ -4,7 +4,6 @@ A bank for your dabloons I made this a while ago.
 
 ## Installation
 How to install the script into the terminal as a app or standard install
-
 ### Standard
 This is assuming you have the latest version of python downloaded
 
@@ -27,7 +26,7 @@ NOTICE: You must have [scoop](https://scoop.sh/) installed to follow this
 if not try again or make an issue                                                                             
 
 ## Usage
-Once running the script you should see the interface and 3 options.
+Once running the script you should see the interface and 3 options.                                                                                        
 If you do not see this please make a issue or contact me
 
 ### Check Me Out
