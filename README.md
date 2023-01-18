@@ -8,7 +8,7 @@ How to install the script into the terminal as a app or standard install
 This is assuming you have the latest version of python downloaded
 
 1. Use the cd command to change to the directory where you want to install the game
-2. Open terminal or powershell and type "git clone https://github.com/itzCozi/Dabloon-Bank"
+2. Open terminal or powershell and type "git clone https://github.com/itzCozi/Dabloon-Bank.git"
 3. After that type "python main.py" to run or make a terminal shim so you can use it in terminal or powershell
 
 ### Terminal App
